@@ -14,8 +14,9 @@ Just a generator for files after creating empty repository on Github
   * .editorconfig
   * .eslintrc with eslint-config-standard
   * .travis.yml with eslint
+  * package.json
+    * adding husky running eslint
 
 ## What it will not do
 
 * Generate README.md and LICENSE because it can be generated at creating repository or using a generator/template
-* Install npm stuff or creating package.json
