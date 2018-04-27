@@ -1,4 +1,10 @@
 # @ninestuff/starter
+
+[![Build Status](https://travis-ci.org/ninetails/starter.svg?branch=master)](https://travis-ci.org/ninetails/starter)
+[![GitHub license](https://img.shields.io/github/license/ninetails/starter.svg)](https://github.com/ninetails/starter/blob/master/LICENSE)
+
+> Pretty straight generator for some project dot files
+
 Just a generator for files after creating empty repository on Github
 
 ## What it will do
