@@ -7,6 +7,10 @@
 
 Just a generator for files after creating empty repository on Github
 
+## Usage
+
+> npx @ninestuff/starter
+
 ## What it will do
 
 * Generate files that I use as standard
